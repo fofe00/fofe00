@@ -6,10 +6,10 @@
 ### <div align="center">I'm fofe, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 📫 How to reach me **blondeaufofe00@gmail.com**
   
 
-- 🌱 I’m currently learning Spring boot  
+- 🌱 I’m currently learning Spring boot & react js 
   
 
 - **❓ Ask me about anything related to FLUTTER ,LARAVEL,AppWrite stack and related technologies**  
@@ -92,7 +92,13 @@
 <br/>  
 
 
-## Recent Blog Posts  
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=fofe00&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
   
 
 <br/>  
