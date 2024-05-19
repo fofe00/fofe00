@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Spring boot & react js 
   
 
-- **❓ Ask me about anything related to FLUTTER ,LARAVEL,AppWrite stack and related technologies**  
+- **❓ Ask me about anything related to JAVA Spring Boot,AWS,Serverless,AppWrite stack and related technologies**  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
