@@ -9,7 +9,7 @@
 - 📫 How to reach me **blondeaufofe00@gmail.com**
   
 
-- 🌱 I’m currently learning Spring boot & react js 
+- 🌱 I’m currently working with  Spring boot,angular and AWS Cloud  
   
 
 - **❓ Ask me about anything related to JAVA Spring Boot,AWS,Serverless,AppWrite stack and related technologies**  
